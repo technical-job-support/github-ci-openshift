@@ -1,5 +1,7 @@
-## Current Requirement
+## Current Requirement - DONE
 Write a github pipeline with Dummy Build - too do
 
 ## Future Requirement
-Deploy a package(Docker Image) into OpenShift? as an Image? - in 
+- Deploy OpenShift in AWS
+- Create a OpenShift Image for Sample App
+- Deploy this image using OpenShift in one of the k8 clustor
