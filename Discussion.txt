@@ -12,3 +12,7 @@ Deploy app(OpenShift Image) in Kubernetes using OpenShift
 Lifecycle
 ------------------------------
 Dev APP --> TEST ---> Docker Image --> Docker Compose -> Helm Pack --> K8s -OpenShift Image > k8 using OpenShift
+
+---------IAAC--------------------
+IAAC - terraform ------ for creating whole Cloud Setup
+Config mgmt - Ansible --- for configuring each server(vms)
